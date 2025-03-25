@@ -14,4 +14,4 @@ This Dockerfile creates a containerized environment for running TuriCreate with 
 
 ### Build the Docker Image
 ```bash
-docker build -t turicreate-jupyter .
+docker pull lordsaac2693/turicreate-jupyter-apple-silicone-jg

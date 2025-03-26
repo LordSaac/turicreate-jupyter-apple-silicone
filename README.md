@@ -1,4 +1,4 @@
-# 🐳 Docker Setup for TuriCreate with Jupyter Notebook
+# 🐳 Docker Setup for TuriCreate with Jupyter Notebook Compatible With Apple Silicone M1/M2/M3...
 
 ## 📝 Overview
 This Dockerfile creates a containerized environment for running TuriCreate with Jupyter Notebook, compatible with:
@@ -15,3 +15,9 @@ This Dockerfile creates a containerized environment for running TuriCreate with 
 ### Build the Docker Image
 ```bash
 docker pull lordsaac2693/turicreate-jupyter-apple-silicone-jg
+```
+
+### Link For Docker Image
+```bash
+https://hub.docker.com/r/lordsaac2693/turicreate-jupyter-apple-silicone-jg/tags
+```
